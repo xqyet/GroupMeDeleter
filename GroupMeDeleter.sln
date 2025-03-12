@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "GroupMeDeleter", "GroupMeDeleter\GroupMeDeleter.njsproj", "{7C6533A9-B7FC-4981-B267-FC2EFCFF582E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C6533A9-B7FC-4981-B267-FC2EFCFF582E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6533A9-B7FC-4981-B267-FC2EFCFF582E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6533A9-B7FC-4981-B267-FC2EFCFF582E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6533A9-B7FC-4981-B267-FC2EFCFF582E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4897314F-8DF0-42A0-B3E6-B0A4EA833AA5}
+	EndGlobalSection
+EndGlobal
